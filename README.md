@@ -3,7 +3,7 @@ bla bla bla
 
 ## How to install
 ```
-npm rn dev
+npm run build
 ```
 
 Bullet list:
